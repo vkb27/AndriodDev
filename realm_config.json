@@ -1,0 +1,9 @@
+{
+    "app_id": "ssl_project-cnpuy",
+    "config_version": 20210101,
+    "name": "SSL_Project",
+    "location": "IN-MB",
+    "provider_region": "aws-ap-south-1",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
